@@ -1,0 +1,6 @@
+crewai 
+crewai-tools 
+pydantic 
+google-genai
+ruff
+python-dotenv

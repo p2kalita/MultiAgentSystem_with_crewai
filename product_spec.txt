@@ -1,0 +1,4 @@
+Product: SupportIQ
+Core Feature: Automated ticket triage using Pandera data contracts and Prefect workflows.
+Target Audience: Mid-market SaaS support teams.
+Pricing: $499/month flat rate.
